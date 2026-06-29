@@ -1,4 +1,4 @@
-# 
+# VIP JetBrains WebStorm tools for Mac OS | Smart JetBrains WebStorm tools for PC Windows. Featuring dev-containers and code-review — optimized for maximum performance on every platform.
 
 
 
